@@ -31,6 +31,6 @@ const Success = () => {
       </section>
     </>
   );
-};
+}; 
 
 export default Success;
